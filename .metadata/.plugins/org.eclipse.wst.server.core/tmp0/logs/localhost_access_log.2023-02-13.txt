@@ -1,0 +1,13 @@
+127.0.0.1 - - [13/Feb/2023:11:52:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:11:52:33 +0530] "GET /ConfigContextApp/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:11:52:44 +0530] "GET /ConfigContextApp/firstservlet HTTP/1.1" 200 13
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:11:53:03 +0530] "GET /ConfigContextApp/firstservlet HTTP/1.1" 200 13
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:11:53:03 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:11:53:20 +0530] "GET /ConfigContextApp/secondservlet HTTP/1.1" 200 14
+127.0.0.1 - - [13/Feb/2023:12:02:22 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:12:02:23 +0530] "GET /ConfigContextApp/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:12:02:34 +0530] "GET /ConfigContextApp/firstservlet HTTP/1.1" 200 3
+127.0.0.1 - - [13/Feb/2023:12:04:44 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:12:04:44 +0530] "GET /ConfigContextApp/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:12:04:54 +0530] "GET /ConfigContextApp/firstservlet HTTP/1.1" 200 24
+0:0:0:0:0:0:0:1 - - [13/Feb/2023:12:05:05 +0530] "GET /ConfigContextApp/secondservlet HTTP/1.1" 200 25

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="in.Ashish.util.ConnectionFactory"/>
+<fullyQualifiedTypeName name="in.Ashish.dao.BookDAO"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="in.sameertech.dto.UserDTO"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="in.sameertech.ConnectionFactory"/>
+<fullyQualifiedTypeName name="in.sameertech.DTO.EmpDTO"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+</qualifiedTypeNameHistroy>
